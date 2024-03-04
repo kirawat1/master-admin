@@ -1,5 +1,11 @@
 # Developing
 
+![Main Dashboard](/screenshot/main.png)
+*Main Dashboard*
+
+![Edit Dashboard](/screenshot/edit.png)
+*Edit Dashboard*
+
 ## Environment
 
 - NodeJS v20.11.1
@@ -12,6 +18,8 @@ npm i # or npm install
 ```
 
 ## Setting the .env
+
+- Add .env file
 
 ```bash
 # Provider is MySQL
